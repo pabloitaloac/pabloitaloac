@@ -61,15 +61,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="Windows" width="35" height="35"/>
 
-
-
-<hr>
-
-
-
-</h4>
-
-
 <div style='display:flex;  ' >
 <p style='display:flex; margin:15px;' >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" ></p>
