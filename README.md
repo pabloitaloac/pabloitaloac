@@ -92,7 +92,7 @@
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
 
 <h3 align="left">Languages and Tools :</h3>
-
+<div style="display:flex; ">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:913/0*nXMWMQxWlj6-dS2j.jpg" alt="reactnative" width="60" height="40" style="border-radius:10px"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -107,7 +107,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="40" height="40"/>  
-
+</div>
 <h3>Tools :</h3>
 <img src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" alt="ios" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android" width="35" height="35"/>
