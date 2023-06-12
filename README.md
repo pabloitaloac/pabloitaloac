@@ -99,10 +99,12 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="60" height="60"/>  
 <img src="https://ucarecdn.com/c25d19d9-c8f5-4a86-897f-85365487aeb7/-/format/auto/-/progressive/yes/-/preview/480x480/" alt="mongodb" width="60" height="60"/>  
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="60" height="60"/>  
+<img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60"/>  
+</div>
+<div style="display:flex; gap: 20px; ">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>  
-<img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60"/>  
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="60" height="60"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="60" height="60"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="60" height="60"/>  
