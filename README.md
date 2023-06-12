@@ -27,32 +27,29 @@
 
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
 <div>
-<p>
-    # I'm a Senior Full Stack Engineer. I work with many technologies, as:
-    </br>
-    <div style="display:flex; gap: 20px; word-wrap: break-word; margin:-10px auto -20px auto">
-        <li>React</li>
-        <li>React Native (iOS and Android)</li>
-        <li>Node JS</li>
-        <li>JavaScript</li>
-        <li>TypeScript</li>
-        <li>Express</li>
-        <li>Mongo DB</li>
-        <li>MySql</li>
-        <li>Git</li>
-        <li>Ubuntu</li>
-        <li>and many others.</li>
-    </div>
-    </br>
-    I've worked for more than 04 years building web apps and solitions to many customers. 
-    </br>
-    You can also find my portfolio on <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> and check my social media on links above.
-    </br>
-    Please, keep free to contact me for anything. PLeased, Pablo Ítalo, 
-</p>
+    <p># English</p>
+    <p>
+        I'm a Senior Full Stack Engineer. I work with many technologies such as React, React Native (iOS and Android), Node.js, JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu, and many others.
+    </p>
+    <p>
+        I've worked for more than 4 years building web apps and solutions for many customers.
+    </p>
+    <p>
+        You can also find my portfolio on <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> and check my social media profiles using the links above.
+    </p>
+    <p>
+        Please feel free to contact me for anything.
+    </p>
+    <p>
+        Regards, Pablo Ítalo,
+        </br>
+        Senior Full Stack Engineer
+    </p>
 </div>
 
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+
+
 
 
 
