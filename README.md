@@ -110,7 +110,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="40" height="40"/>  
 
 <h3 align="left">Tools :</h3>
-<p align="left">  
 <img src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" alt="ios" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android" width="35" height="35"/>
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VS Code" width="35" height="35" hspace="5"/>
@@ -132,14 +131,15 @@
 
 
 <div style='display:flex;  ' >
-<p style='display:flex; margin:15px;' >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" ></p>
+<div style='display:flex; margin:15px;' >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" ></div>
 
-<p style='display:flex; margin:15px;' >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" /></p>
+<div style='display:flex; margin:15px;' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" /></div>
 
-<p style='display:flex; margin:15px;' >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloitaloac&theme=dracula" alt="pabloitaloac" /> </p>
+<div style='display:flex; margin:15px;' >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloitaloac&theme=dracula" alt="pabloitaloac" /> 
+</div>
 
 </div>
 
