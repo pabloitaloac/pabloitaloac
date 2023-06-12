@@ -25,8 +25,8 @@
 
 <br>
 
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:10px 10px 10px 10px; background-color:#fff; margin-bottom:10px;  " ></div>
-
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+<div>
 <p>
     # I'm a Senior Full Stack Engineer. I work with many technologies, as:
     </br>
@@ -50,11 +50,14 @@
     </br>
     Please, keep free to contact me for anything. PLeased, Pablo Ítalo, 
 </p>
-<br>
+</div>
+
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+
+
+
     ## Sou desenvolvedor Full-Stack, atuando com MERN stack {MongoDB, Express(.js), React(.js), Node(.js)}
-<br>
     ### 私はフルスタック開発者で、MERN スタックを使用しています {MongoDB, Express(.js), React(.js), Node(.js)}
-<br>
 
 
 <h3 align="left">Languages and Tools :</h3>
