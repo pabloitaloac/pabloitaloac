@@ -92,7 +92,7 @@
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
 
 <h3 align="left">Languages and Tools :</h3>
-<div style="display:flex; gap: 10px; ">
+<div style="display:flex; gap: 20px; ">
 <img src="https://www.iped.com.br/img/cursos/114420.jpg" alt="react" width="110" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="60" height="60"/>  
@@ -110,7 +110,7 @@
 
 
 <h3>Tools :</h3>
-<div style="display:flex; gap: 10px; ">
+<div style="display:flex; gap: 20px; ">
 <img src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" alt="ios" width="65" height="65"/>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android" width="65" height="60"/>
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VS Code" width="65" height="60" hspace="5"/>
