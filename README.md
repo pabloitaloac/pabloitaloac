@@ -48,14 +48,50 @@
 </div>
 
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+<div>
+    <h3># Português</h3>
+    <p>
+        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como React, React Native (iOS e Android), Node.js, JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu e muitas outras.
+    </p>
+    <p>
+        Tenho mais de 4 anos de experiência construindo aplicativos web e soluções para diversos clientes.
+    </p>
+    <p>
+        Você também pode encontrar meu portfólio em <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> e verificar meus perfis nas redes sociais usando os links acima.
+    </p>
+    <p>
+        Sinta-se à vontade para entrar em contato comigo para qualquer coisa.
+    </p>
+    <p>
+        Atenciosamente, Pablo Ítalo,
+        <br>
+        Engenheiro Sênior de Full Stack
+    </p>
+</div>
 
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+<div>
+    <h3># 日本語</h3>
+    <p>
+        私はシニアフルスタックエンジニアです。React、React Native（iOSおよびAndroid）、Node.js、JavaScript、TypeScript、Express、MongoDB、MySQL、Git、Ubuntuなど、多くの技術を使用しています。
+    </p>
+    <p>
+        私は4年以上の間、多くの顧客のためにウェブアプリやソリューションを構築してきました。
+    </p>
+    <p>
+        ポートフォリオは<a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a>でご覧いただけます。また、上記のリンクを使用して、私のソーシャルメディアのプロフィールもご確認いただけます。
+    </p>
+    <p>
+        ご質問やご相談があれば、お気軽にお問い合わせください。
+    </p>
+    <p>
+        敬具、Pablo Ítalo
+        <br>
+        シニアフルスタックエンジニア
+    </p>
+</div>
 
-
-
-
-    ## Sou desenvolvedor Full-Stack, atuando com MERN stack {MongoDB, Express(.js), React(.js), Node(.js)}
-    ### 私はフルスタック開発者で、MERN スタックを使用しています {MongoDB, Express(.js), React(.js), Node(.js)}
-
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
