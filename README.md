@@ -92,7 +92,6 @@
 <div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
 
 <h3 align="left">Languages and Tools :</h3>
-<p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:913/0*nXMWMQxWlj6-dS2j.jpg" alt="reactnative" width="60" height="40" style="border-radius:10px"/>  
