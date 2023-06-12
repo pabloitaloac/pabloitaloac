@@ -25,7 +25,7 @@
 
 <br>
 
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:10px 10px 10px 10px; background-color:#fff; margin-bottom:10px;  " ></div>
 
 <p>
     # I'm a Senior Full Stack Engineer. I work with many technologies, as:
