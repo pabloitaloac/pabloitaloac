@@ -108,7 +108,10 @@
 <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="40" height="40"/>  
 </div>
+
+
 <h3>Tools :</h3>
+<div style="display:flex; ">
 <img src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" alt="ios" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android" width="35" height="35"/>
 <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VS Code" width="35" height="35" hspace="5"/>
@@ -117,16 +120,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="Windows" width="35" height="35"/>
 <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" alt="Windows" width="50" height="35"/>
-
-
-
-
-
-
-
-
-
-
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" />
