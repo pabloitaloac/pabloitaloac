@@ -129,10 +129,10 @@
 
 
 
-<div style="display:flex;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" style="margin:10px;" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" style="margin:10px;" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloitaloac&theme=dracula" alt="pabloitaloac" style="margin:10px;" /> 
+<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; align-content:center; justify-content:center; ">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" style="margin:10px; width:30%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" style="margin:10px;width:30%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloitaloac&theme=dracula" alt="pabloitaloac" style="margin:10px; width:30%" /> 
 
 
 </div>
