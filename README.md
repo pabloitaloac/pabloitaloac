@@ -25,8 +25,29 @@
 
 <br>
 
-<h4>
-    # I'm a Full Stack Developer - MERN stack {MongoDB, Express(.js), React(.js), Node(.js)}
+<p>
+    # I'm a Senior Full Stack Engineer. I work with many technologies, as:
+    </br>
+    <div style="display:flex; gap: 20px; word-wrap: break-word; margin:-10px auto -20px auto">
+        <li>React</li>
+        <li>React Native (iOS and Android)</li>
+        <li>Node JS</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Express</li>
+        <li>Mongo DB</li>
+        <li>MySql</li>
+        <li>Git</li>
+        <li>Ubuntu</li>
+        <li>and many others.</li>
+    </div>
+    </br>
+    I've worked for more than 04 years building web apps and solitions to many customers. 
+    </br>
+    You can also find my portfolio on <a href="https://pabloitalo.com">pabloitalo.com</a> and check my social media on links above.
+    </br>
+    Please, keep free to contact me for anything. PLeased, Pablo Ítalo, 
+</p>
 <br>
     ## Sou desenvolvedor Full-Stack, atuando com MERN stack {MongoDB, Express(.js), React(.js), Node(.js)}
 <br>
