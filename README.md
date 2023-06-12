@@ -44,7 +44,7 @@
     </br>
     I've worked for more than 04 years building web apps and solitions to many customers. 
     </br>
-    You can also find my portfolio on <a href="https://pabloitalo.com">pabloitalo.com</a> and check my social media on links above.
+    You can also find my portfolio on <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> and check my social media on links above.
     </br>
     Please, keep free to contact me for anything. PLeased, Pablo Ítalo, 
 </p>
