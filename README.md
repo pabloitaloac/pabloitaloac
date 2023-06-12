@@ -93,7 +93,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div style="display:flex; gap: 10px; ">
-<img src="https://www.iped.com.br/img/cursos/114420.jpg" alt="react" width="90" height="60"/>
+<img src="https://www.iped.com.br/img/cursos/114420.jpg" alt="react" width="110" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="60" height="60"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="60" height="60"/>  
