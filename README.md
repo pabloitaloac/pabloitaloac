@@ -27,10 +27,10 @@
 <div>
     <h3># English</h3>
     <p>
-        I'm a Senior Full Stack Engineer. I work with many technologies such as React, React Native (iOS and Android), Node.js, JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu, and many others.
+        I'm a Senior Full Stack Engineer. I work with many technologies such as Node.js, React, React Native (iOS and Android), JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu, and many others.
     </p>
     <p>
-        I've worked for more than 4 years building web apps and solutions for many customers.
+        I've worked for more than 5 years building web apps and solutions for many customers.
     </p>
     <p>
         You can also find my portfolio on <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> and check my social media profiles using the links above.
@@ -49,10 +49,10 @@
 <div>
     <h3># Português</h3>
     <p>
-        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como React, React Native (iOS e Android), Node.js, JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu e muitas outras.
+        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como Node.js, React, React Native (iOS e Android), JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu e muitas outras.
     </p>
     <p>
-        Tenho mais de 4 anos de experiência construindo aplicativos web e soluções para diversos clientes.
+        Tenho mais de 5 anos de experiência construindo aplicativos web e soluções para diversos clientes.
     </p>
     <p>
         Você também pode encontrar meu portfólio em <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> e verificar meus perfis nas redes sociais usando os links acima.
@@ -71,10 +71,10 @@
 <div>
     <h3># 日本語</h3>
     <p>
-        私はシニアフルスタックエンジニアです。React、React Native（iOSおよびAndroid）、Node.js、JavaScript、TypeScript、Express、MongoDB、MySQL、Git、Ubuntuなど、多くの技術を使用しています。
+        私はシニアフルスタックエンジニアです。Node.js、React、React Native（iOSおよびAndroid）、JavaScript、TypeScript、Express、MongoDB、MySQL、Git、Ubuntuなど、多くの技術を使用しています。
     </p>
     <p>
-        私は4年以上の間、多くの顧客のためにウェブアプリやソリューションを構築してきました。
+        私は5年以上の間、多くの顧客のためにウェブアプリやソリューションを構築してきました。
     </p>
     <p>
         ポートフォリオは<a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a>でご覧いただけます。また、上記のリンクを使用して、私のソーシャルメディアのプロフィールもご確認いただけます。
