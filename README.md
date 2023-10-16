@@ -27,7 +27,7 @@
 <div>
     <h3># English</h3>
     <p>
-        I'm a Senior Full Stack Engineer. I work with many technologies such as Node.js, React, React Native (iOS and Android), JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu, and many others.
+        I'm a Senior Full Stack Engineer. I work with many technologies such as Node.js, React, React Native (iOS and Android), JavaScript, TypeScript, Express, MongoDB, PHP, MySQL, Git, AWS, VPS, Ubuntu, and many others.
     </p>
     <p>
         I've worked for more than 5 years building web apps and solutions for many customers.
@@ -49,7 +49,7 @@
 <div>
     <h3># Português</h3>
     <p>
-        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como Node.js, React, React Native (iOS e Android), JavaScript, TypeScript, Express, MongoDB, MySQL, Git, Ubuntu e muitas outras.
+        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como Node.js, React, React Native (iOS e Android), JavaScript, TypeScript, Express, MongoDB, PHP, MySQL, Git, AWS, VPS, Ubuntu e muitas outras.
     </p>
     <p>
         Tenho mais de 5 anos de experiência construindo aplicativos web e soluções para diversos clientes.
@@ -71,7 +71,7 @@
 <div>
     <h3># 日本語</h3>
     <p>
-        私はシニアフルスタックエンジニアです。Node.js、React、React Native（iOSおよびAndroid）、JavaScript、TypeScript、Express、MongoDB、MySQL、Git、Ubuntuなど、多くの技術を使用しています。
+        私はシニアフルスタックエンジニアです。Node.js、React、React Native（iOSおよびAndroid）、JavaScript、TypeScript、Express、MongoDB、PHP, MySQL、Git、AWS, VPS, Ubuntuなど、多くの技術を使用しています。
     </p>
     <p>
         私は5年以上の間、多くの顧客のためにウェブアプリやソリューションを構築してきました。
