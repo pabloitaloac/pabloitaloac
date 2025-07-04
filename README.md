@@ -1,132 +1,174 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)]()
+[![MasterHead](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=50&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=200&lines=Pablo+%C3%8Dtalo;Senior+Full+Stack+Developer;AI+Integration+Specialist;6%2B+Years+Experience;React+%7C+Node.js+%7C+Python+%7C+Django;Ready+to+Build+Amazing+Things!)](https://github.com/pabloitaloac)
 
+<h1 align="center">👋 Hi, I'm Pablo Ítalo</h1>
+<h3 align="center">🚀 Senior Full Stack Developer | 6+ Years Experience</h3>
 
-<h1># Hi, I am Pablo Ítalo ;D
-    <br>
-    ## Olá, meu nome é Pablo Ítalo ;D
-    <br>
-    ### こんにちは、パブロ・イタロです ;D
-</h1>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-italo/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pabloitalo.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloitaloac)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@pabloitalo.com)
 
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pablo-italo/)     [![GitHub Badge](https://img.shields.io/badge/-pabloitaloac-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pabloitaloac)](https://github.com/pabloitaloac)      [![Website Badge](https://img.shields.io/badge/-pabloitalo.com-47CCCC?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://pabloitalo.com)](https://pabloitalo.com)      [![Mail Badge](https://img.shields.io/badge/-dev@pabloitalo.com-blueviolet?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto:dev@pabloitalo.com)](mailto:dev@pabloitalo.com)     [![Instagram Badge](https://img.shields.io/badge/-@pabloitaloac-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pabloitaloac/)](https://www.instagram.com/pabloitaloac/)
-
-<br>
-
-<h2># About me
-    <br>
-    ## Sobre mim
-    <br>
-    ### 私について
-</h2>
-
-<br>
-
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
-<div>
-    <h3># English</h3>
-    <p>
-        I'm a Senior Full Stack Engineer. I work with many technologies such as Node.js, React, React Native (iOS and Android), JavaScript, TypeScript, Express, MongoDB, PHP, MySQL, Git, AWS, VPS, Ubuntu, and many others.
-    </p>
-    <p>
-        I've worked for more than 5 years building web apps and solutions for many customers.
-    </p>
-    <p>
-        You can also find my portfolio on <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> and check my social media profiles using the links above.
-    </p>
-    <p>
-        Please feel free to contact me for anything.
-    </p>
-    <p>
-        Regards, Pablo Ítalo,
-        </br>
-        Senior Full Stack Engineer
-    </p>
 </div>
 
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
-<div>
-    <h3># Português</h3>
-    <p>
-        Sou um Engenheiro Sênior de Full Stack. Trabalho com diversas tecnologias, como Node.js, React, React Native (iOS e Android), JavaScript, TypeScript, Express, MongoDB, PHP, MySQL, Git, AWS, VPS, Ubuntu e muitas outras.
-    </p>
-    <p>
-        Tenho mais de 5 anos de experiência construindo aplicativos web e soluções para diversos clientes.
-    </p>
-    <p>
-        Você também pode encontrar meu portfólio em <a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a> e verificar meus perfis nas redes sociais usando os links acima.
-    </p>
-    <p>
-        Sinta-se à vontade para entrar em contato comigo para qualquer coisa.
-    </p>
-    <p>
-        Atenciosamente, Pablo Ítalo,
-        <br>
-        Engenheiro Sênior de Full Stack
-    </p>
+---
+
+## 💻 About Me
+
+Full Stack Developer with **6+ years of experience** specializing in modern web and mobile technologies. I focus on scalable solutions, clean code architecture, and delivering high-quality projects using **Agile Methodologies**. 
+
+**AI Integration Specialist** with extensive experience in implementing AI-powered solutions, chat integrations, and leveraging cutting-edge AI technologies to enhance user experiences and business processes.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 🎨 Frontend
+**React.js** • **Next.js** • **React Native** • **JavaScript** • **TypeScript** • **HTML5** • **CSS3** • **Tailwind CSS** • **Sass**
+
+### ⚙️ Backend
+**Node.js** • **Express.js** • **Nest.js** • **Python** • **Django** • **PHP** • **RESTful APIs** • **GraphQL** • **Microservices**
+
+### 🗄️ Database & DevOps
+**MongoDB** • **MySQL** • **PostgreSQL** • **Redis** • **Docker** • **AWS** • **Linux** • **Git**
+
+### 🤖 AI & Machine Learning
+**OpenAI API** • **Anthropic Claude** • **ChatGPT Integrations** • **MCPs (Model Context Protocols)** • **LangChain** • **Vector Databases** • **RAG Systems** • **AI Chat Bots** • **Natural Language Processing** • **Machine Learning APIs**
+
 </div>
 
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
-<div>
-    <h3># 日本語</h3>
-    <p>
-        私はシニアフルスタックエンジニアです。Node.js、React、React Native（iOSおよびAndroid）、JavaScript、TypeScript、Express、MongoDB、PHP, MySQL、Git、AWS, VPS, Ubuntuなど、多くの技術を使用しています。
-    </p>
-    <p>
-        私は5年以上の間、多くの顧客のためにウェブアプリやソリューションを構築してきました。
-    </p>
-    <p>
-        ポートフォリオは<a href="https://pabloitalo.com" target="_blank">pabloitalo.com</a>でご覧いただけます。また、上記のリンクを使用して、私のソーシャルメディアのプロフィールもご確認いただけます。
-    </p>
-    <p>
-        ご質問やご相談があれば、お気軽にお問い合わせください。
-    </p>
-    <p>
-        敬具、Pablo Ítalo
-        <br>
-        シニアフルスタックエンジニア
-    </p>
+<div align="center">
+<h3>🔧 Tech Stack</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" alt="ChatGPT" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python AI" />
 </div>
 
-<div style="width:80%; display:flex; margin-left:auto; margin-right:auto; padding:1px 1px 1px 1px; background-color:#fff; margin-bottom:10px;  " ></div>
+---
 
-<h3 align="left">Languages and Tools :</h3>
-<div style="display:flex; gap: 20px; ">
-<img src="https://www.iped.com.br/img/cursos/114420.jpg" alt="react" width="110" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="60" height="60"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="60" height="60"/>  
-<img src="https://ucarecdn.com/c25d19d9-c8f5-4a86-897f-85365487aeb7/-/format/auto/-/progressive/yes/-/preview/480x480/" alt="mongodb" width="60" height="60"/>  
-<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="60" height="60"/>  
-<img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="60" height="60"/>  
+## 🏆 Professional Highlights
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/globe.png" alt="Global" width="48"/>
+<br><b>🌍 Global Experience</b>
+<br>15+ Countries Served
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="48"/>
+<br><b>📊 50+ Projects</b>
+<br>500K+ End Users Served
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/rocket.png" alt="Expertise" width="48"/>
+<br><b>🎯 Specialization</b>
+<br>SaaS • E-commerce • Enterprise
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI" width="48"/>
+<br><b>🤖 AI Integration</b>
+<br>ChatGPT • Claude • MCPs
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/chat.png" alt="Chat" width="48"/>
+<br><b>💬 AI Chat Systems</b>
+<br>Custom Bots • API Integration
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API" width="48"/>
+<br><b>🔗 AI APIs</b>
+<br>OpenAI • Anthropic • Custom
+</td>
+</tr>
+</table>
 </div>
-<div style="display:flex; gap: 20px; ">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>  
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="60" height="60"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="60" height="60"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="60" height="60"/>  
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://flagcdn.com/48x36/us.png" alt="USA" width="48"/>
+<br><b>English</b>
+<br><i>Advanced (C1)</i>
+</td>
+<td align="center" width="25%">
+<img src="https://flagcdn.com/48x36/br.png" alt="Brazil" width="48"/>
+<br><b>Portuguese</b>
+<br><i>Native</i>
+</td>
+<td align="center" width="25%">
+<img src="https://flagcdn.com/48x36/es.png" alt="Spain" width="48"/>
+<br><b>Spanish</b>
+<br><i>Advanced (C1)</i>
+</td>
+<td align="center" width="25%">
+<img src="https://flagcdn.com/48x36/jp.png" alt="Japan" width="48"/>
+<br><b>Japanese</b>
+<br><i>Basic (A2)</i>
+</td>
+</tr>
+</table>
 </div>
 
+---
 
-<h3>Tools :</h3>
-<div style="display:flex; gap: 20px; ">
-<img src="https://freepngimg.com/save/68525-apple-network-icons-ios-computer-iphone-graphics/1140x1140" alt="ios" width="65" height="65"/>
-<img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android" width="65" height="60"/>
-<img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VS Code" width="65" height="60" hspace="5"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="65" height="60" hspace="5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="Windows" width="65" height="60"/>
-<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" alt="Windows" width="80" height="60"/>
+
+## 📫 Let's Connect!
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="48"/>
+<br><b>Email</b>
+<br><a href="mailto:dev@pabloitalo.com">dev@pabloitalo.com</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="48"/>
+<br><b>Portfolio</b>
+<br><a href="https://pabloitalo.com">pabloitalo.com</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48"/>
+<br><b>LinkedIn</b>
+<br><a href="https://www.linkedin.com/in/pablo-italo/">@pablo-italo</a>
+</td>
+</table>
 </div>
 
-<br/>
+---
 
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloitaloac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pabloitaloac" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloitaloac&show_icons=true&theme=dracula&locale=en" alt="pabloitaloac" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloitaloac&theme=dracula" alt="pabloitaloac" /> 
--->
+<div align="center">
+  
+### 💼 Available for Freelance Projects | 🚀 Open to Full-time Opportunities
+
+</div>
